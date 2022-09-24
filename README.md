@@ -41,4 +41,14 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 
 ![img2](https://user-images.githubusercontent.com/113098396/192091617-96b7ff50-dd19-4248-bcb0-76d2a64541d7.png)
 
+![img3](https://user-images.githubusercontent.com/113098396/192091972-87708416-b320-4201-95c8-c8ac53009659.png) 
+
+![img4](https://user-images.githubusercontent.com/113098396/192091990-c7b820a8-7348-4ced-8f88-688e4676c5b4.png)
+
+![img5](https://user-images.githubusercontent.com/113098396/192092011-7a0f6728-748f-4616-86ad-efcbae899fa7.png)
+
+![img6](https://user-images.githubusercontent.com/113098396/192092021-1d048ac4-09b1-47e5-a723-c311bc6a0b22.png)
+
+![img7](https://user-images.githubusercontent.com/113098396/192092029-489019d9-3f3e-4010-9190-f6c7192b6420.png)
+
 
