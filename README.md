@@ -51,4 +51,9 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 
 ![img7](https://user-images.githubusercontent.com/113098396/192092029-489019d9-3f3e-4010-9190-f6c7192b6420.png)
 
-
+Languages and Azure services used in my bot:-
+- Azure(Hosting)
+- HTML
+- QnA Maker
+- Web App Bot
+- JavaScript
