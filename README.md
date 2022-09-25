@@ -45,7 +45,7 @@ I have created a informational bot named "4.0 Software Technologies" using Html 
 
 ![img4](https://user-images.githubusercontent.com/113098396/192091990-c7b820a8-7348-4ced-8f88-688e4676c5b4.png)
 
-### Impact of Technology: ⤵️
+# Impact of Technology: ⤵️
 
 ![img5](https://user-images.githubusercontent.com/113098396/192092011-7a0f6728-748f-4616-86ad-efcbae899fa7.png)
 
