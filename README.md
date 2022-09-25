@@ -53,6 +53,21 @@ I have created a informational bot named "4.0 Software Technologies" using Html 
 
 ![img7](https://user-images.githubusercontent.com/113098396/192092029-489019d9-3f3e-4010-9190-f6c7192b6420.png)
 
+
+![about cartoon img](https://user-images.githubusercontent.com/113098396/192140869-fb05cb08-b3f8-4535-ba7b-1a7017817375.png)
+ 
+![about details para](https://user-images.githubusercontent.com/113098396/192141152-b92cb08d-7d92-4934-b5d6-0156dfd0a31b.png)
+
+![faq with why](https://user-images.githubusercontent.com/113098396/192141090-e068924c-e28e-414f-a878-037160051e71.png)
+
+![q a img ](https://user-images.githubusercontent.com/113098396/192141136-e79fe1a7-f30c-4b03-876e-50f817791e8f.png)
+
+![contact us imgage](https://user-images.githubusercontent.com/113098396/192140971-e9d8ac53-4fc7-4f6b-9b77-80ee879c408e.png)
+
+![have a nicev  day](https://user-images.githubusercontent.com/113098396/192140997-94404471-f761-4274-ad3c-eaa6dc12c02c.png)
+
+
+
 ## Tech Stack: 💻
 ## Languages and Azure services used in my bot:-
 - Azure(Hosting)
