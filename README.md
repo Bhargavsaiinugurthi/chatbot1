@@ -12,7 +12,7 @@ Project Link: "https://sites.google.com/view/azurewebsiteschatbot/home"
            
 ## Project Description 👇:
 
-I have created a informational bot named "Azure Chat bot" using Html and services like QnA maker,Web app bot.It helps the user to finds information about Ms Azure like ; What is Azure it's history and about services. In this website I make five pages i.e; Home, About, Contact, F.A.Q, ChatBot. It's look likes a professional bot. I am trying to solve the real world problem like in these days we are searching for good and genuine website,apps etc.for information here and there. So I make a bot where I try to give every details of Azure . My project helps both learners and explorers like for learners I provided every details i.e; history, developer (s), services etc.. and for explorers I gave website links and everything there in the bot to know more to create , build, deploy etc ...
+I have created a informational bot named "Azure Chat bot" using Html and services like QnA maker,Web app bot.It helps the user to finds information about Ms Azure like ; What is Azure it's history and about services. In this website I make five pages i.e; Home, About, Contact, F.A.Q, ChatBot. It's look likes a professional bot. I am trying to solve the real world problem like in these days we are searching for good and genuine website,apps etc.for information here and there. So I make a bot where I try to give every details of Azure . My project helps both learners and explorers like for learners I provided every details i.e; history, developer (s), services etc.. and  everything there in the bot to know more to create , build etc ...
 
 
 ## Features and functionalities 🧐:
