@@ -37,7 +37,8 @@ I have created a informational bot named "4.0 Software Technologies" using Html 
 ## Screenshorts:
 
 ### Home Page ⬇️ :
-![project img1](https://user-images.githubusercontent.com/113098396/192085093-27b8f03d-f85c-4351-8549-95ec76d982af.png)
+
+![home page image ](https://user-images.githubusercontent.com/113098396/193100540-c69df482-f565-442a-870e-f9d9fd34e877.png)
 
 ![img2](https://user-images.githubusercontent.com/113098396/192091617-96b7ff50-dd19-4248-bcb0-76d2a64541d7.png)
 
