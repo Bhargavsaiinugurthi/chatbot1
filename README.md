@@ -4,7 +4,6 @@ This is an informational bot application  developed  for education related, to g
 
 This web based informational bot  has been developed for the accomplishment of future ready talent internship program launched by microsoft,future skill prime ,Quess, GitHub,EY.
 
-Project Link: "https://sites.google.com/view/azurewebsiteschatbot/home"
 
 
 ## project title:
